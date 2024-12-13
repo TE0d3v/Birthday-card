@@ -24,14 +24,10 @@ Este projeto é um cartão de aniversário bonito com animações. Ele foi desen
 3. Personalize a mensagem e os estilos editando os arquivos `index.html` e `style.css`.
 
 4. Para compartilhar o cartão, basta fazer o upload dos arquivos em qualquer serviço de hospedagem ou compartilhá-los diretamente.
-
-## Prévia
-
-![Prévia do Cartão de Aniversário](path/to/your/image.png) *(Opcional: Adicione uma captura de tela da aparência do cartão aqui)*
-
+5. 
 ## Créditos
 
-- **Autor**: [Seu Nome](https://github.com/seunome)
+- **Autor**: [Pedro Henrique](https://github.com/TE0d3v)
 - **Bibliotecas Usadas**: Nenhuma
 
 ## Licença
